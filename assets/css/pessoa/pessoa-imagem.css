@@ -1,12 +1,12 @@
 .pessoa__imagem {
+    background-color: red;
+    background-position: center;
+    border-radius: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 300px;
     margin: 0 auto;
     width: 300px;
-    background-color: red;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    border-radius: 100%
 }
 
 .pessoa__imagem--roberta {
